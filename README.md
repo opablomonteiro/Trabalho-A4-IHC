@@ -11,4 +11,4 @@
 
 Trabalho realizado para nota da avaliação de número 4 da matéria de Interface-Homem-Computador.
 
-#### OBS.: O Projeto não foi criado do zero por minha pessoa. O Projeto Original usado como base encontra-se no repositório na pasta "trabalho-original". Deixo ele aqui para dar os devidos créditos, infelizmente perdi o link. Mas também fiz muitas mudanças para adequa-lo ao que estava me propondo.
+#### OBS.: O Projeto não foi criado do zero por minha pessoa. O Projeto Original usado como base encontra-se no repositório na pasta "trabalho-original". Deixo ele aqui para dar os devidos créditos, infelizmente perdi o link. Mas também fiz muitas mudanças para adequá-lo ao que estava me propondo.
